@@ -1,3 +1,3 @@
 module.exports = {
-    url : 'mongodb://localhost/game'
+    url : 'ds019472.mlab.com:19472/sbtgame'
 };
